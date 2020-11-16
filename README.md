@@ -1,5 +1,4 @@
-# Video-Steganography
-SUPERB FEATURE EXTRACTOR
+# SUPERB FEATURE EXTRACTOR
 1. Syntax: extractor.exe -s -i infile -o outfile
 	-s: turn on the slient mode
 
